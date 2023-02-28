@@ -3,6 +3,6 @@
 ## [learnings](https://github.com/subhransusekhar123/form)
 
 
-#Day 2
+# Day 2
 -css, flexbox, mediaQuery
-##[learning](https://github.com/subhransusekhar123/flexbox)
+## [learning](https://github.com/subhransusekhar123/flexbox)
