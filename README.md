@@ -6,3 +6,7 @@
 # Day 2
 -css, flexbox, mediaQuery
 ## [learning](https://github.com/subhransusekhar123/flexbox)
+
+# Day 3
+-css, grid, mediaQuery
+## [learning]([learning](https://github.com/subhransusekhar123/grid)
