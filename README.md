@@ -9,4 +9,4 @@
 
 # Day 3
 -css, grid, mediaQuery
-## [learning]([learning](https://github.com/subhransusekhar123/grid)
+## [learning](https://github.com/subhransusekhar123/grid)
