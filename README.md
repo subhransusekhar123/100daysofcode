@@ -25,5 +25,6 @@
 ## [learning](https://github.com/subhransusekhar123/5thday.git)
 
 # Day 7
--css, flexbox, box shadow, transform,scale
+-css, flexbox,grid, box shadow, transform,scale
 ## [learning](https://github.com/subhransusekhar123/7th-day)
+##[accordian](https://github.com/subhransusekhar123/accordian.git)
