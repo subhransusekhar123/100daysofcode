@@ -26,4 +26,4 @@
 
 # Day 7
 -css, flexbox, box shadow, transform,scale
-## [learning](https://github.com/subhransusekhar123/7thday)
+## [learning](https://github.com/subhransusekhar123/7th-day)
