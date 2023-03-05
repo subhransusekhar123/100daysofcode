@@ -27,4 +27,4 @@
 # Day 7
 -css, flexbox,grid, box shadow, transform,scale
 ## [learning](https://github.com/subhransusekhar123/7th-day)
-##[accordian](https://github.com/subhransusekhar123/accordian.git)
+## [accordian](https://github.com/subhransusekhar123/accordian.git)
