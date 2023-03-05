@@ -20,3 +20,10 @@
 ## [learning](https://github.com/subhransusekhar123/5thday.git)
 
 
+# Day 6
+-css, flexbox, box shadow, filter drop shadow
+## [learning](https://github.com/subhransusekhar123/5thday.git)
+
+# Day 7
+-css, flexbox, box shadow, transform,scale
+## [learning](https://github.com/subhransusekhar123/7thday)
