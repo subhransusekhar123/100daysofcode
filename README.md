@@ -28,3 +28,7 @@
 -css, flexbox,grid, box shadow, transform,scale
 ## [learning](https://github.com/subhransusekhar123/7th-day)
 ## [accordian](https://github.com/subhransusekhar123/accordian.git)
+
+# Day 8
+-started react native setup react-native-cli made a hello world
+## [learning](https://github.com/subhransusekhar123/first-react-native.git)
