@@ -38,3 +38,8 @@
 ## [learning](https://github.com/subhransusekhar123/9th-day.git)
 
 
+# Day 10
+-started react native setup react-native-cli made another blog card, learned about Link and css in web development
+## [learning](https://github.com/subhransusekhar123/9th-day.git)
+
+
