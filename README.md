@@ -42,4 +42,12 @@
 -started react native setup react-native-cli made another blog card, learned about Link and css in web development
 ## [learning](https://github.com/subhransusekhar123/9th-day.git)
 
+# Day 11
+-started react native ui project
+## [learning](https://github.com/subhransusekhar123/react-native-ui_01)
+
+# Day 12
+-finished react native ui project
+## [learning](https://github.com/subhransusekhar123/react-native-ui_01)
+
 
